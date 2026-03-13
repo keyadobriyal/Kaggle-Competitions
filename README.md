@@ -12,6 +12,8 @@ The Kaggle Playground Series is a collection of regular, low-stakes machine lear
 
 **Variety:** Covers diverse tasks, from binary classification (loan repayment) to regression (podcast listening time). 
 
+## Progression Milestones (2025–2026)
+
 | Competition | Period |Performance Rank | Improvement Insight |
 | --- | --- | --- | --- |
 | Predicting Diabetes (S5 E12) | Dec 2025 | 2330 / 4386 | Initial entry; focused on baseline model building |
