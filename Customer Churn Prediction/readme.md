@@ -20,9 +20,6 @@ This report summarizes the evolution of the machine learning models used in the 
 | customer-churn-RF - Version 2 |	0.89858 |
 | customer-churn-RF - Version 1	| 0.89269 |
 
-<img width="591" height="641" alt="image" src="https://github.com/user-attachments/assets/eec1496a-1d9b-48e3-9ce1-e55475411f36" />
-
-
 ## Phase 1: Foundation & Calibration (v1 – v2)Algorithms: 
 Random Forest Classifier.Key Complexity: Introduced Probability Calibration (Platt Scaling).AUC Impact: Initial models suffered from "center-pushed" probabilities. By applying calibration, the model began providing more reliable financial metrics, slightly improving the AUC by refining the decision boundary between churners and non-churners.
 
