@@ -2,6 +2,27 @@ This challenge I decided to progress from simple machine learning models to comp
 
 This report summarizes the evolution of the machine learning models used in the Customer Churn Prediction project across 15 versions. The project demonstrates a clear progression from basic single-model architectures to high-complexity stacking ensembles, with a direct correlation between model complexity and the improvement in ROC-AUC (Area Under the Receiver Operating Characteristic Curve).
 
+| Submission and Description	| Public Score |
+| --- | --- |
+| customer-churn-RF - Version 27	| 0.91436 |
+| customer-churn-RF - Version 25	| 0.91401 |
+| customer-churn-RF - Version 21	| 0.91419 |
+| customer-churn-RF - Version 19	| 0.91417 |
+| customer-churn-RF - Version 16	| 0.91396 |
+| customer-churn-RF - Version 14	| 0.91401 |
+| customer-churn-RF - Version 13	| 0.91393 |
+| customer-churn-RF - Version 11	| 0.91390 |
+| customer-churn-RF - Version 10	| 0.91385 |
+| customer-churn-RF - Version 9	| 0.91086 |
+| customer-churn-RF - Version 7	| 0.91003 |
+| customer-churn-RF - Version 6	| 0.91005 |
+| customer-churn-RF - Version 4 |	0.89906 |
+| customer-churn-RF - Version 2 |	0.89858 |
+| customer-churn-RF - Version 1	| 0.89269 |
+
+<img width="591" height="641" alt="image" src="https://github.com/user-attachments/assets/eec1496a-1d9b-48e3-9ce1-e55475411f36" />
+
+
 ## Phase 1: Foundation & Calibration (v1 – v2)Algorithms: 
 Random Forest Classifier.Key Complexity: Introduced Probability Calibration (Platt Scaling).AUC Impact: Initial models suffered from "center-pushed" probabilities. By applying calibration, the model began providing more reliable financial metrics, slightly improving the AUC by refining the decision boundary between churners and non-churners.
 
