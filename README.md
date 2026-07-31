@@ -22,4 +22,5 @@ The Kaggle Playground Series is a collection of regular, low-stakes machine lear
 | Predicting Customer Churn (S6 E3) | Mar 2026 | 901 / 4142 | Maximum algorithms were attempted during the challenge |
 | Predicting Irrigation Needs (S6 E4) | Apr 2026 | 2717 / 4315 | Due to Sixth Sem Exams could not focus on improvement |
 | Predicting F1 Pitstops (S6 E5) | May 2026 | 780/3022 | Focus was on improvement using retention logic for pit stops |
-| Predicting Stellar Class (S6 E6) | June 2026 | Ongoing | ---- |
+| Predicting Stellar Class (S6 E6) | June 2026 | 1622/2816 | Tried oof stacking with XGB + LGBM + NN + LR stacking |
+| Predicting Student's Health (S6 E7) | July 2026 | 1433/3332 | Started with Ensemble using CATB+LGBM+XGB, later using CATB with pseudo-labels  |
